@@ -1,2 +1,3 @@
-# SCT-ML-1
-This is a internship of Skillcraft
+## NMAE:- S NIKHILESWARAN
+## ID :- SCT/JUN24/0443
+## DOMAIN :- MACHINE LEARNING
